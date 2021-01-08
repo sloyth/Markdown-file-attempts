@@ -168,19 +168,19 @@
 
 ```图片
 ![alt 属性文本]（图片地址）
-[![smJscF.jpg](https://s3.ax1x.com/2021/01/07/smJscF.jpg)](https://imgchr.com/i/smJscF)
+[![smJscF.jpg](https://s3.ax1x.com/2021/01/08/sKK3WD.jpg)](https://imgchr.com/i/sKK3WD)
 
 不同格式：
-![派蒙](https://s3.ax1x.com/2021/01/07/smJscF.jpg)
+![派蒙](https://s3.ax1x.com/2021/01/08/sKK3WD.jpg)
 
 ![派蒙][C] /通过定义网址变量/
 ```
 
-[![smJscF.jpg](https://s3.ax1x.com/2021/01/07/smJscF.jpg)](https://imgchr.com/i/smJscF "这是一个派蒙")
+[![smJscF.jpg](https://s3.ax1x.com/2021/01/08/sKK3WD.jpg)](https://imgchr.com/i/smJscF "这是一个派蒙")
 
 Markdown暂时指定图片的大小，如果想指定大小，那就用`<img>`吧！
 
-<img src="https://s3.ax1x.com/2021/01/07/smJscF.jpg" width="20%" height="20%">
+<img src="https://s3.ax1x.com/2021/01/08/sKK3WD.jpg" width="20%" height="20%">
 
 ---
 
@@ -276,11 +276,11 @@ $$
 
 # 附录
 
-[^1]:区块内可使用列表，列表中也可使用区块
+[^1]:区块内可使用列表，列表中也可使用区块，区块中使用列表时需要在前面打四个空格或者一个制表符
 [^2]:好吧，考虑到谷歌不一定打得开，我选择百度
 [^3]:这个公式是我从隔壁Runoob抄的
 
 [A]:https://www.baidu.com
 [B]:https://www.google.com
-[C]:https://s3.ax1x.com/2021/01/07/smJscF.jpg
+[C]:https://s3.ax1x.com/2021/01/08/sKK3WD.jpg
 
